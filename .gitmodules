@@ -1,3 +1,6 @@
 [submodule "IAD-backend"]
 	path = IAD-backend
 	url = https://github.com/rizwan199811/IAD-backend.git
+[submodule "Frontend-UI"]
+	path = Frontend-UI
+	url = https://github.com/rizwan199811/Front-end-ui.git
