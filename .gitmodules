@@ -1,0 +1,3 @@
+[submodule "IAD-backend"]
+	path = IAD-backend
+	url = https://github.com/rizwan199811/IAD-backend.git
